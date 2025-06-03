@@ -1,0 +1,8 @@
+flask
+python-dotenv
+langchain==0.1.17
+langchain-core==0.1.37
+langchain-community==0.0.29
+openai
+deepinfra
+pydantic==1.10.13
